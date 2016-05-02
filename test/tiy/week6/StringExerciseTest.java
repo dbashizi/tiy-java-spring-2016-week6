@@ -1,3 +1,5 @@
+package tiy.week6;
+
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
