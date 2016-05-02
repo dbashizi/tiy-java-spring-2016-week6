@@ -1,8 +1,7 @@
-package tiy.week6;
-
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+import tiy.week6.StringExercise;
 
 import static org.junit.Assert.*;
 
